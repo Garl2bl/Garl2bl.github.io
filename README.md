@@ -1,5 +1,7 @@
-# not finished yet
+# Not finished yet.
 
-## check my other website: [blog.zeesque.me](https://blog.zeesque.me/)
+## Check my other website: [blog.zeesque.me](https://blog.zeesque.me/).
+## Contact me on my mail [admin@zeesque.me](admin@zeesque.me).
+
 
 
